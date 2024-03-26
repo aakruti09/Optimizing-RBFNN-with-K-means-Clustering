@@ -16,13 +16,15 @@ $$x_i = -2 + 0.2i \quad \quad i = 0,1,.. , 20$$
 $$x_j = -2 + 0.2j \quad \quad j = 0,1,.. , 20$$
 
 The mapping is defined by : 
+
 $$f(x_1, x_2) = 
     \begin{cases}
         +1, & \quad \text{if } x_1^2 + x_2^2 \leq 1 \\
         -1, & \quad \text{if } x_1^2 + x_2^2 > 1
     \end{cases}
 $$
-$$\text{over region }-2<x_1<2 \text{ and}-2<x_2<2$$
+
+$$\text{over region} -2 < x_1 < 2 \text{ and} -2 < x_2 < 2$$
 
 ## Practical Applications
 - Pattern recognition and image classification
